@@ -1,0 +1,2 @@
+# unbet
+unbet - quit gambling
