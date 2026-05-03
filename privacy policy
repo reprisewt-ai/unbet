@@ -1,0 +1,100 @@
+# Privacy Policy
+
+**Last updated: May 3, 2026**
+
+Unbet ("we", "our", or "the app") is operated by Muhammed Enes Keskin. This Privacy Policy explains how we collect, use, and protect your information when you use Unbet.
+
+---
+
+## 1. Information We Collect
+
+### Information You Provide
+- **Name** — entered during onboarding, used to personalize your experience
+- **Age range** — used to tailor recovery content
+- **Gambling history** — duration, frequency, budget estimates entered during onboarding
+- **Recovery goals and motivations** — used to personalize your plan
+- **Craving logs** — intensity, triggers, and breathing session data
+- **Relapse entries** — date, feelings, and optional notes you choose to log
+- **Savings entries** — amounts you manually enter
+
+### Information Collected Automatically
+- **Anonymous user ID** — generated automatically via Firebase Authentication; no email or password required
+- **App usage analytics** — onboarding steps completed, feature usage (via Firebase Analytics); this data is aggregate and not linked to your identity
+- **Subscription status** — managed by RevenueCat; we receive confirmation of active or inactive subscription, not payment details
+
+---
+
+## 2. How We Use Your Information
+
+- To provide and personalize your recovery experience
+- To calculate your streak, savings, and recovery insights
+- To improve the app based on aggregate usage patterns
+- To manage your subscription and restore purchases
+
+---
+
+## 3. Data Storage
+
+- **On your device:** Most of your personal recovery data (streak, relics, craving logs, relapse entries, savings) is stored locally on your device using SwiftData and UserDefaults. This data is not uploaded to our servers.
+- **Firebase:** Your anonymous user ID and onboarding completion status are stored in Firebase Firestore. No personally identifiable information is required or stored.
+- **RevenueCat:** Subscription status is managed by RevenueCat. Their privacy policy applies: [revenuecat.com/privacy](https://www.revenuecat.com/privacy)
+
+---
+
+## 4. Data We Do NOT Collect
+
+- We do not collect your email address
+- We do not collect your phone number
+- We do not collect precise location data
+- We do not sell your data to third parties
+- We do not display third-party advertising
+
+---
+
+## 5. Third-Party Services
+
+Unbet uses the following third-party services:
+
+| Service | Purpose | Privacy Policy |
+|---|---|---|
+| Firebase (Google) | Anonymous auth, analytics | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) |
+| RevenueCat | Subscription management | [revenuecat.com/privacy](https://www.revenuecat.com/privacy) |
+| Apple StoreKit | In-app purchases | [apple.com/legal/privacy](https://www.apple.com/legal/privacy) |
+
+---
+
+## 6. Children's Privacy
+
+Unbet is not directed at children under the age of 9. We do not knowingly collect personal information from children under 9. If you believe a child has provided us with personal information, please contact us.
+
+---
+
+## 7. Your Rights (GDPR)
+
+If you are located in the European Union, you have the right to:
+- Access the personal data we hold about you
+- Request deletion of your data
+- Withdraw consent at any time
+
+To exercise these rights, contact us at the email below. You can also delete all your data directly within the app via **Settings → Delete My Account**.
+
+---
+
+## 8. Data Retention
+
+Your local data remains on your device until you delete the app or use **Settings → Reset All Data**. Anonymous Firebase data is retained for up to 12 months for analytics purposes.
+
+---
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the date at the top of this page. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+---
+
+## 10. Contact
+
+If you have questions about this Privacy Policy, contact us at:
+
+**Email:** keskkeness@hotmail.com  
+**Website:** [unbet.github.io](https://unbet.github.io)
